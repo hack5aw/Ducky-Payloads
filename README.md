@@ -1,5 +1,5 @@
 # A collection of ducky payloads 
-Can be used for **Hak5** products or anything that uses _duckyscipt_(ex. **Flipper Zero**)
+Can be used for **Hak5** products or anything that uses _duckyscript_ (ex. **Flipper Zero**)
 
 # How to Download
 To download the entire repo click **Code** and Download Zip and Extract
