@@ -14,3 +14,6 @@ Eth: 0x21A8a1E1843CAF5b7ed07C66723EC3823149523e
 
 # Check out my other repo's 👨‍💻
 [Flipper-collection](https://github.com/hack5aw/Flipper-collection)
+
+# BRANCH NOTE
+If you see this you are in the _work in progress_ branch. Here you can preview my ongoing work before it goes mainstream. If you just want to download some of my payloads then go back to the _main_ branch
