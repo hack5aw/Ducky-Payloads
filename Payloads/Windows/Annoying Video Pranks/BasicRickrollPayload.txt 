@@ -1,0 +1,11 @@
+REM author: Hacksaw
+REM Title: Basic Rickroll Payload
+REM Description: Opens youtube and plays a Rickroll
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
+DELAY 500
+F11
+REM EXPLODE(im jk)
