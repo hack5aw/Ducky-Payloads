@@ -1,0 +1,11 @@
+REM author: Hacksaw (hack5aw)
+REM account:https://github.com/hack5aw
+REM Title: Broken Screen Payload
+REM Description: Makes your victim think their screen is broken.
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=uKisdcdVRl8&ab_channel=PrankPosse
+ENTER
+DELAY 6000
+STRING f
