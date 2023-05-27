@@ -10,6 +10,7 @@ If you can't donate, please leave  _Star_ on this repo that would be nice and/or
 
 ### Donate 💰
 Donos are appreciated
+
 Eth: 0x21A8a1E1843CAF5b7ed07C66723EC3823149523e
 
 # Check out my other repo's 👨‍💻
